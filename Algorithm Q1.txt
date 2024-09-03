@@ -1,0 +1,12 @@
+1.	Input num1
+2.	Input num2
+3.	IF num1/num2 = any real number, print num2 is a divisor of num1.
+4.	IF num1/num2 = any rational or decimal value or p/q form, PRINT num2 is not divisor of num1.
+5.	Print answer.
+6.	take a modulus to determine whether the answer is even or odd.
+7.	IF the answer is a real number or a natural number, then verify if (answer%2==0) 
+  print “This is an even number”, 
+  Else “this number is odd”;
+8.	IF the answer is rational or irrational or in p/q form, 
+print “this number is neither even nor odd, this number contains a decimal value.”
+9.	END.
