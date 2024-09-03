@@ -1,0 +1,17 @@
+
+1.	Enter num1.
+2.	Enter num2.
+3.	Enter the operation that you want to use. (+,-,/,*,%)
+4.	If (operation== ‘+’), print
+      num1 + num2;
+5.	Else If (operation== ‘-’), print
+      num1 - num2;
+6.	Else If (operation== ‘*’), print 
+     num1 * num2;
+7.	Else If (operation== ‘/’), print 
+     num1 / num2;
+8.	Else If (operation== ‘%’), print
+     num1 % num2 (their reminder);
+
+9.	Else, print operation error!
+10.	End.
