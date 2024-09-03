@@ -1,0 +1,7 @@
+Start 
+Input a 
+Input b 
+Input c 
+Calculate – (–a – b – c); 
+Print the output. 
+End
