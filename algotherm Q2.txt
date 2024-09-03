@@ -1,0 +1,15 @@
+1.	Enter the number >=1 & <=12, to display month.
+2.	If user enters ‘1’, print “January”.
+3.	If user enters ‘2’, print “February”.
+4.	If user enters ‘3’, print “March”.
+5.	If user enters ‘4’, print “April”.
+6.	If user enters ‘5’, print “May”.
+7.	If user enters ‘6’, print “June”.
+8.	If user enters ‘7’, print “July”.
+9.	If user enters ‘8’, print “August”.
+10.	If user enters ‘9’, print “September”.
+11.	If user enters ‘10’, print “October”.
+12.	If user enters ‘11’, print “November”.
+13.	If user enters ‘12’, print “December”.
+14.	If number<1 & number>12, print “ERROR!”
+15.	End
