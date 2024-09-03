@@ -1,0 +1,8 @@
+Start 
+Input a 
+Input b 
+Input c 
+chose any operation ‘+’ or ‘–’ 
+If user chose ‘+’ operation, print (a + b + c); 
+Else if user chose ‘–’ operation, print (a – b – c); 
+End.
